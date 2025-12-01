@@ -16,9 +16,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1_jTIvpCdWdQ9QARr-royVkzGXX2t_lab/view?usp=sharing"  />
-</div>
+<!-- banner soon -->
 
 ###
 
